@@ -1,7 +1,6 @@
 {
-  "prompt": "A vast ocean filled with melting ice cubes, a giant melting human heart of ice at center, warm red glow beneath water, hazy sky, cinematic, no charts, no text, hyper-realistic, dramatic lighting. Avoid graphs, axes, labels, globes, thermometers.",
+  "prompt": "A highly detailed, cinematic, hyper-realistic photograph of a tailor obsessively stitching an extremely elaborate, overly complex suit onto a mannequin. The suit is covered in excessive patterns, patches, unnecessary decorations, and tightly conforms to every tiny irregularity of the mannequin's surface. In contrast, several normal human customers stand nearby, unable to wear the suit as it clearly does not fit them at all. The workshop is realistic: wooden tables, fabric rolls, threads, soft natural lighting. Symbolic of overfitting. No text, no charts, no diagrams.",
   "model": "Gemini 2.5 Flash Image",
-  "dataset_name": "Global Temperature Anomalies Dataset",
-  "dataset_url": "https://data.giss.nasa.gov/gistemp/",
-  "insight": "Global warming is not gradual—it is an accelerating collapse where even the core of life is melting."
+  "concept": "Overfitting",
+  "metaphor": "A tailor creates a perfectly detailed suit for one mannequin that fails to fit real people, showing memorization without generalization."
 }
