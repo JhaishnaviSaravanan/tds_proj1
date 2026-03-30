@@ -1,0 +1,6 @@
+{
+  "prompt": "A surreal yet physically plausible scene of two staircases spiraling upward side by side inside a large hall. Individually, each staircase clearly ascends upward. However, when viewed from a distance, the combined structure forms a larger spiral that visually descends downward overall. Lighting emphasizes the contradiction in perspective. No text, no symbols, no diagrams, no impossible geometry—only perspective and composition creating the paradox. Photorealistic, cinematic lighting, architectural realism.",
+  "model": "Gemini 2.5 Flash Image",
+  "paradox": "Simpson's paradox",
+  "visual_logic": "Two locally upward paths combine into a globally downward structure, mirroring subgroup trends reversing when aggregated."
+}
