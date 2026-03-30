@@ -1,0 +1,7 @@
+{
+  "prompt": "A vast ocean filled with melting ice cubes, a giant melting human heart of ice at center, warm red glow beneath water, hazy sky, cinematic, no charts, no text, hyper-realistic, dramatic lighting. Avoid graphs, axes, labels, globes, thermometers.",
+  "model": "Gemini 2.5 Flash Image",
+  "dataset_name": "Global Temperature Anomalies Dataset",
+  "dataset_url": "https://data.giss.nasa.gov/gistemp/",
+  "insight": "Global warming is not gradual—it is an accelerating collapse where even the core of life is melting."
+}
